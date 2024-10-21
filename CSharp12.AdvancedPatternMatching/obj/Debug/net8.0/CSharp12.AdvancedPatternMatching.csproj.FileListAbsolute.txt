@@ -1,0 +1,8 @@
+I:\GitHub\csharp12-advanced-pattern-matching\CSharp12.AdvancedPatternMatchingSolution\CSharp12.AdvancedPatternMatchingSolution\obj\Debug\net8.0\CSharp12.AdvancedPatternMatching.GeneratedMSBuildEditorConfig.editorconfig
+I:\GitHub\csharp12-advanced-pattern-matching\CSharp12.AdvancedPatternMatchingSolution\CSharp12.AdvancedPatternMatchingSolution\obj\Debug\net8.0\CSharp12.AdvancedPatternMatching.AssemblyInfoInputs.cache
+I:\GitHub\csharp12-advanced-pattern-matching\CSharp12.AdvancedPatternMatchingSolution\CSharp12.AdvancedPatternMatchingSolution\obj\Debug\net8.0\CSharp12.AdvancedPatternMatching.AssemblyInfo.cs
+I:\GitHub\csharp12-advanced-pattern-matching\CSharp12.AdvancedPatternMatchingSolution\CSharp12.AdvancedPatternMatchingSolution\obj\Debug\net8.0\CSharp12.AdvancedPatternMatching.csproj.CoreCompileInputs.cache
+I:\GitHub\csharp12-advanced-pattern-matching\CSharp12.AdvancedPatternMatching\obj\Debug\net8.0\CSharp12.AdvancedPatternMatching.GeneratedMSBuildEditorConfig.editorconfig
+I:\GitHub\csharp12-advanced-pattern-matching\CSharp12.AdvancedPatternMatching\obj\Debug\net8.0\CSharp12.AdvancedPatternMatching.AssemblyInfoInputs.cache
+I:\GitHub\csharp12-advanced-pattern-matching\CSharp12.AdvancedPatternMatching\obj\Debug\net8.0\CSharp12.AdvancedPatternMatching.AssemblyInfo.cs
+I:\GitHub\csharp12-advanced-pattern-matching\CSharp12.AdvancedPatternMatching\obj\Debug\net8.0\CSharp12.AdvancedPatternMatching.csproj.CoreCompileInputs.cache
